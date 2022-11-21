@@ -1,1 +1,1 @@
-console.log("trigger action")
+console.log("trigger")
